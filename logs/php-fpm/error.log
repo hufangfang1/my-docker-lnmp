@@ -1,0 +1,10 @@
+[21-Mar-2018 03:35:24] ALERT: [pool www] the process manager is missing (static, dynamic or ondemand)
+[21-Mar-2018 03:35:24] ERROR: failed to post process the configuration
+[21-Mar-2018 03:35:24] ERROR: FPM initialization failed
+[21-Mar-2018 03:36:50] ALERT: [pool www] the process manager is missing (static, dynamic or ondemand)
+[21-Mar-2018 03:36:50] ERROR: failed to post process the configuration
+[21-Mar-2018 03:36:50] ERROR: FPM initialization failed
+[21-Mar-2018 03:41:01] NOTICE: fpm is running, pid 1
+[21-Mar-2018 03:41:01] NOTICE: ready to handle connections
+[21-Mar-2018 03:55:50] NOTICE: Terminating ...
+[21-Mar-2018 03:55:50] NOTICE: exiting, bye-bye!
